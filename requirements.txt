@@ -1,0 +1,6 @@
+numpy<2.0
+torch
+pyexr
+Pillow
+tqdm
+tensorboard
